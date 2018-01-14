@@ -61,7 +61,7 @@ h2 {
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 #mypic {
-	height: 30%;
+	height: 40%;
 	width: 30%;
 	
 	float: left;
@@ -153,13 +153,14 @@ margin: 0 auto;
 	padding-left: 5px;
 	border-right: .5px solid #cccccc;
 	color: #777777;
+	text-decoration: none;
 
 }
 #link2 {
 
 	padding-right: 5px;
 	padding-left: 5px;
-
+	text-decoration: none;
 	color: #777777;
 
 
@@ -170,5 +171,6 @@ margin: 0 auto;
 	padding-left: 5px;
 	border-right: .5px solid #cccccc;
 	color: #777777;
+	text-decoration: none;
 
 }
